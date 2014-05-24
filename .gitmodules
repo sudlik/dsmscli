@@ -1,0 +1,3 @@
+[submodule "dsmsapi"]
+	path = dsmsapi
+	url = git@github.com:sudlik/dsmsapi.git
